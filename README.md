@@ -13,7 +13,7 @@ To perform end-to-end data analytics on T20 World Cup matches by collecting, tra
 - Performed data cleaning (removal of duplicates, column formatting, null handling) in both Python and Power BI  
 - Created calculated columns and DAX measures (e.g., Strike Rate, Boundary %, Dot Ball %) to support deep analysis  
 - Developed multiple interactive dashboards with slicers, buttons, clean layout, and custom visuals  
-- Analyzed player and team performance, match trends, top scorers, match-winning contributions, and more  
+- Analyzed player and team performance, match trends, top scorers, match-winning contributions, and more   
 
 ## Sample Power BI Dashboards  
 Here are some sample visuals from the project:
