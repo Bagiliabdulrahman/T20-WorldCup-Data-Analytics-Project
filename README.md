@@ -21,7 +21,7 @@ Here are some sample visuals from the project:
 ![Dashboard Sample 1](./Screenshots/sample_dashboard_1.png)  
 ![Dashboard Sample 2](./Screenshots/sample_dashboard_2.png)
 
-You can also view my Power BI dashboard screenshots on [LinkedIn]([https://www.linkedin.com/in/your-profile-url-here](https://www.linkedin.com/posts/bagili-abdul-rahman-a72b1026a_t20-world-cup-data-analytics-project-power-activity-7351548437126926338-4mDI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIEOvYBfZdrPkFYRcLunJpO4SxF9alsv-c)).
+You can also view my Power BI dashboard screenshots on [LinkedIn](https://www.linkedin.com/posts/bagili-abdul-rahman-a72b1026a_t20-world-cup-data-analytics-project-power-activity-7351548437126926338-4mDI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIEOvYBfZdrPkFYRcLunJpO4SxF9alsv-c)
 
 ## Repository Contents  
 - `T20_CSV_Files/`: Cleaned CSV files generated from Python  
