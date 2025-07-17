@@ -18,8 +18,8 @@ To perform end-to-end data analytics on T20 World Cup matches by collecting, tra
 ## Sample Power BI Dashboards  
 Here are some sample visuals from the project:
 
-![Dashboard Sample 1](./Screenshots/sample_dashboard_1.png)  
-![Dashboard Sample 2](./Screenshots/sample_dashboard_2.png)
+![Dashboard Sample 1](https://github.com/Bagiliabdulrahman/T20-WorldCup-Data-Analytics-Project/blob/main/T20_wc_data%20analysis/Screenshots/sample_dashboard_1.png)  
+![Dashboard Sample 2](https://github.com/Bagiliabdulrahman/T20-WorldCup-Data-Analytics-Project/blob/main/T20_wc_data%20analysis/Screenshots/sample_dashboard_2.png)
 
 You can also view my Power BI dashboard screenshots on [LinkedIn](https://www.linkedin.com/posts/bagili-abdul-rahman-a72b1026a_t20-world-cup-data-analytics-project-power-activity-7351548437126926338-4mDI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIEOvYBfZdrPkFYRcLunJpO4SxF9alsv-c)
 
